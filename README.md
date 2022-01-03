@@ -1,31 +1,40 @@
 # 🚀 Processo seletivo para vaga de Dev Front-end (Estagio)
 
-Processo seletivo dev FRONT-END (Estágio) 2022
+Olá, mundo! Este projeto tem como objetivo o desenvolvimento de uma Pokedex em HTML que consome a PokeAPI para alimentar suas informações fazendo uso de Ajax, contendo basicamente:
 
-Olá aspirante a #uniper, seja bem-vindo ao nosso processo de seleção.
+- Listagem com todos os Pokémons;
+- Detalhes do Pokémon selecionado;
+- Busca de Pokémon por nome.
 
-## 📋 A Tarefa
+# Primeira Sprint do Projeto - Estrutura inicial
 
-Desenvolva uma aplicação Angular ou HTML/CSS/JS utilizando a PokéAPI que contenha:
+- Estrutura básica em HTML, CSS e JS;
+- Barra de pesquisa para posterior busca por Pokémons;
+- Colunas responsivas para posterior exibição dos Pokémons.
 
-- Listagem com todos os Pokémon
+# Segunda Sprint do Projeto - Consumo de API
 
-Será diferencial:
+- Requisitar informações iniciais da PokeAPI (Lista de Pokémons);
+- Requisitar informações mais específicas da PokeAPI (Informações detalhadas de Pokémons);
+- Organizar a exibição em HTML das informações obtidas.
 
-- Detalhes de um Pokémon selecionado.
-- Busca de Pokémon.
+# Terceira Sprint do Projeto - Página com informações dos Pokémons
 
-Você tem toda a liberdade para criação do *layout*.
+- Estrutura básica em HTML, CSS e JS;
+- Reutilizar Barra de pesquisa do Index de forma dinâmica;
+- Desigin e Layout responsivo para exibir detalhes do Pokémon selecionado.
 
-*API* e docuentação para executar as tarefas: https://pokeapi.co/
+# Quarta Sprint do Projeto - Barra de pesquisa
 
-***📌OBS:*** o uso da API é só Caso for consumir algum serviço.
+- Programar barra de pesquisa para funcionar com nome e ID dos Pokémons;
+- Programar a barra de busca para direcionar corretamente o usuário;
+- Programar a barra de forma que sugestões de autocompletar sejam exibidas.
 
-## Prazo
-O entrevistador irá lhe informar assim que lhe mandar esse repo, e os dias seram contados à partir do recebimento deste teste.
+# Ultima Sprint do Projeto - Revisão geral das tecnologias utilizadas e a interação entre as mesmas:
 
-## Entrega
-Clone esse repo, abra uma nova ramificação pra ti e assim que concluir nos mande um PR para avaliação incluindo o @devlabsunip como reviwer.
-
-## Considerações Finais
-Sinta-se livre na sua solução e apresentação.
+- HTML 5
+- CSS 3
+- JAVASCRIPT
+- BOOTSTRAP
+- JQUERY
+- PokeAPI (https://pokeapi.co/)
